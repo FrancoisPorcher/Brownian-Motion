@@ -1,10 +1,22 @@
 
 # 🤖 Brownian Motion
 
-Gaining intuition about what a Brownian Motion looks like, and its average time t to cross a sphere of radius r.
-# 🎇Screenshots
+Just playing with Brownian Motion for fun and visualizing it crossing a sphere.
 
-![Screenshot](screenshot.png)
+# 🎇 Demo
+
+
+### Several Paths of Brownian Motion
+
+![Screenshot](screenshot2.png)
+
+### Brownian Motion crossing a sphere
+
+![Screenshot](screenshot3.png)
+
+### Average time a Brownian Motion takes to cross a sphere
+
+![Screenshot](screenshot4.png)
 
 # 🙋🏻‍♂️ Authors
 
